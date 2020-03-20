@@ -51,10 +51,10 @@ class Zespolona: public Liczba{
     void wypisz(){
         cout<<"Re:"<<re<<", Im:"<<im<<endl;}
 
-    Zespolona operator+(Zespolona &z)
-    {
-        return Zespolona(get_re()+z.get_re(), get_im()+z.get_im());
-    }
+//    Zespolona operator+(Zespolona &z)
+//    {
+//        return Zespolona(get_re()+z.get_re(), get_im()+z.get_im());
+//    }
 
     private:
         float re;
