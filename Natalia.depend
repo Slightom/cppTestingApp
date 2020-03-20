@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580759060 source:c:\users\slightom\documents\niestandardowe szablony pakietu office\cpp\natalia\main.cpp
+	<iostream>
+	<cstdlib>
+
